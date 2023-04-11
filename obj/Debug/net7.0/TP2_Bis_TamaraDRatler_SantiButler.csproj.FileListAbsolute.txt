@@ -1,0 +1,15 @@
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\bin\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.exe
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\bin\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.deps.json
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\bin\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.runtimeconfig.json
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\bin\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.dll
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\bin\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.pdb
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.csproj.AssemblyReference.cache
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.AssemblyInfoInputs.cache
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.AssemblyInfo.cs
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.csproj.CoreCompileInputs.cache
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.dll
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\refint\TP2_Bis_TamaraDRatler_SantiButler.dll
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.pdb
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\TP2_Bis_TamaraDRatler_SantiButler.genruntimeconfig.cache
+Z:\PROG\2023\TP2_Bis_TamaraDRatler_SantiButler\obj\Debug\net7.0\ref\TP2_Bis_TamaraDRatler_SantiButler.dll
